@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/papiliond/bpx-accs-005/
+    type: markup
+
+folders:
+  /products/: /products/default
